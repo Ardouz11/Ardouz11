@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ardouz11
-- 👀 I’m interested Machine Learning ,Data Science Data Anaylisis
+- I'm embedded system engineering student at ENSA Fez
+<!--- 👀 I’m interested Machine Learning ,Data Science Data Anaylisis
 - 🌱 I’m currently learning Data Science
 - 📫 You can  reach me on email rachidardouz11@gmail.com
 

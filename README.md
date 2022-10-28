@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ardouz11
-- 📫 I'm embedded systems engineer graduated from ENSA Fez
 - I'm a Full Stack Enginner with a backgroud in Data Engineering
 - 📫 You can  reach me on email rachidardouz11@gmail.com
 <!--- 👀 I’m interested Machine Learning ,Data Science Data Anaylisis
